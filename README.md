@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Nancy Xie, a CS student.
-- 🌱 I’m currently learning C/C++ and Java. (BTW, I know HTML, a little Python and CSS.)
+- 👋 Hi, I’m Nancy Xie, a CS student in QUB.
+- 🌱 I can use C/C++, Java, HTML, CSS and MySQL.
+- 🎯 I plan to do front-end work in the future. and I'm currently learning JavaScript and PHP.
 - 📫 nancy_xieyy@icloud.com
 
 <!---
