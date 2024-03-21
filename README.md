@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nancy Xie, a CS student in QUB.
-- 🌱 I can use C/C++, Java, HTML, CSS and MySQL.
-- 🎯 I plan to do front-end work in the future. and I'm currently learning JavaScript and PHP.
+- 🌱 I can use C/C++, Java, HTML, CSS, Javascript, Python and MySQL.
+- 🎯 I plan to do front-end work in the future(Now it's Ai!!!😭) and I'm currently learning Machine Learning and Deep Learning.
 - 📫 nancy_xieyy@icloud.com
 
 <!---
