@@ -1,8 +1,9 @@
 ### 👋 Hi, I’m Nancy Xie (谢越莹)
 - 🎓 MSc Robotics @ University of Bristol
+- 🎓 BSc Compuer Science @ Queens University Belfast
 - 💡 Interested in AI + Web tools
-- 🧠 Projects: CancerCare, Sign-in Risk System
-- 🌱 Currently learning React, Vercel, Product Thinking
+- 🧠 Projects: Agents, AI-medical-assistant, seckill-project
+- 🌱 Currently learning AI Agent and AIGC 
 - 📫 nancy_xieyy@icloud.com
 
 
